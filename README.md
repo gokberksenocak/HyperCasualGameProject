@@ -1,5 +1,5 @@
 # HyperCasualGameProject
-Hyper-Casual türü runner oyunu yaptığım bir çalışma. Tamamlanması 5 gün sürdü.
+Hyper-Casual türünde bir runner oyunu yaptığım çalışma. Tamamlanması 5 gün sürdü.
 # Ekran Görüntüleri
 
 ![Ekran Görüntüsü (623)](https://user-images.githubusercontent.com/102216059/175819052-3ef95d28-0d66-4954-b40a-8db4341bc733.png)
